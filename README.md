@@ -35,6 +35,13 @@
 5. **Web Socket is used to show cities Air quility data**
 6. **Navigation Component is used for navigate**
 
+## Development Time taken vs features built :
+1. **Initail MVVM Setup Code : 2 hours**
+2. **Develop code for webSocket and get response to test time taken :3-4 hours**
+3. **Realm database integrate : 2 hours**
+4. **Design UI and Bind ListAdapter : 3 hours**
+5. **OverAll it take approx 12-14 hours of task**
+
 ## The following project structure is followed for simplicity:
 <p align="left">
     <img src="https://user-images.githubusercontent.com/18350065/143781491-f563c1a5-a12c-49c2-a7e5-fc05ef43c422.PNG">
