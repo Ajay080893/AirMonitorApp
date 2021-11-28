@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>Data Diri Screen Page</td>
+    <td>Air Monitor App</td>
    
   </tr>
   <tr>
