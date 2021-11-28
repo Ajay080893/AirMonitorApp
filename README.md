@@ -37,6 +37,6 @@
 
 ## The following project structure is followed for simplicity:
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/18350065/87896909-4669c300-ca67-11ea-9d18-fedacd6859f2.PNG">
+    <img src="https://user-images.githubusercontent.com/18350065/143781491-f563c1a5-a12c-49c2-a7e5-fc05ef43c422.PNG">
 </p>
 <br>
