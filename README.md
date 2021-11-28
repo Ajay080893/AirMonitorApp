@@ -36,7 +36,7 @@
 6. **Navigation Component is used for navigate**
 
 ## Development Time taken vs features built :
-1. **Initail MVVM Setup Code : 2 hours**
+1. **Initial MVVM Setup Code : 2 hours**
 2. **Develop code for webSocket and get response to test time taken :3-4 hours**
 3. **Realm database integrate : 2 hours**
 4. **Design UI and Bind ListAdapter : 3 hours**
